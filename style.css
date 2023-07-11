@@ -2,3 +2,23 @@
   padding: 15px;
   border: 1px solid black;
 }
+
+.container {
+  display: flex;
+}
+
+.div1 {
+  flex-grow: 0;
+}
+
+.div2 {
+  flex-grow: 1;
+}
+
+.div3 {
+  flex-grow: 1;
+}
+
+.div4 {
+  flex-grow: 4;
+}
